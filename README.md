@@ -1,7 +1,7 @@
 # Kaggle
 This repository contains all my code to Kaggle Competitions. 
 
-# Current Contest Codes
+# Contest Codes
 
 * Titanic(Accuracy Score: 0.78947)
   * [Competition Link](https://www.kaggle.com/c/titanic)
