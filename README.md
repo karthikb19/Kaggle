@@ -1,7 +1,7 @@
 # Kaggle
 This repository contains all my code to Kaggle Competitions. 
 
-# Current Contest Codes
+# Contest Codes
 
 * Titanic(Categorization Accuracy: 0.78947)
   * [Competition Link](https://www.kaggle.com/c/titanic)
@@ -14,4 +14,3 @@ This repository contains all my code to Kaggle Competitions.
 
 Categorization Accuracy: Percentage of correct predictions)
 RMSLE: Root Mean Squared Logarithmic Error
-  
