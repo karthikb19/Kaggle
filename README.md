@@ -13,4 +13,5 @@ This repository contains all my code to Kaggle Competitions.
 # Definitions
 
 Categorization Accuracy: Percentage of correct predictions)
+
 RMSLE: Root Mean Squared Logarithmic Error
