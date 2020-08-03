@@ -1,7 +1,7 @@
 # Kaggle
-This repository contains all my code to Kaggle Competitions. 
+This repository contains all my code to Kaggle Competitions/Datasets. 
 
-# Contest Codes
+# Contest/Dataset Codes
 
 * Titanic(Categorization Accuracy: 0.78947)
   * [Competition Link](https://www.kaggle.com/c/titanic)
@@ -9,7 +9,7 @@ This repository contains all my code to Kaggle Competitions.
   * [Competition Link](https://www.kaggle.com/c/bike-sharing-demand/overview)
 * Digit Recognizer- MNIST Data Set(Categorization Accuracy: )
   * [Competition Link](https://www.kaggle.com/c/digit-recognizer)
-  
+* League of Legends Diamond Ranked Games(Categorization Accuracy: 0.7331)
 # Definitions
 
 Categorization Accuracy: Percentage of correct predictions)
